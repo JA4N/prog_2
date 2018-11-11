@@ -1,4 +1,4 @@
-package Funktionale_Programmierung.Aufwaermuebung.Uebung;
+package Funktionale_Programmierung.Aufwaermuebung.Fußballmanager;
 
 import java.util.ArrayList;
 import java.util.List;

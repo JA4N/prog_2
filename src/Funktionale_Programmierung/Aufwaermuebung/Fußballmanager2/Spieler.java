@@ -1,7 +1,8 @@
-package Funktionale_Programmierung.Aufwaermuebung.Uebung;
+package Funktionale_Programmierung.Aufwaermuebung.Fußballmanager2;
+
+import Funktionale_Programmierung.Aufwaermuebung.Fußballmanager.Jahreseinkommen;
 
 public class Spieler {
-
     private String name;
     private String verein;
     private int spiele;
@@ -49,3 +50,4 @@ public class Spieler {
         return "Der Spieler " + getName() + " Vom Verein " + getVerein() + " hat eine Erfolgsquote von " + getErfolgsquote() + " und verdient " + getEinkommen() + "€";
     }
 }
+
